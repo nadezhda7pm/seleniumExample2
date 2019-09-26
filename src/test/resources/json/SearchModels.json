@@ -1,0 +1,9 @@
+{
+  "SearchModels": [
+    {
+      "location": "New York",
+      "checkInDate": "2019-09-01",
+      "checkOutDate": "2019-09-30"
+    }
+  ]
+}
